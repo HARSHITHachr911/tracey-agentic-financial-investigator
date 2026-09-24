@@ -117,23 +117,21 @@ Tracey presents the available evidence and identifies the remaining unexplained 
 
 The proposed system follows this high-level architecture:
 
-**User**
-↓
-**Consent & Authentication**
-↓
-**Secure Data Ingestion**
-↓
-**Extraction & Normalization**
-↓
-**Financial Evidence Graph**
-↓
-**Investigation Engine**
-↓
-**Agentic AI Investigator**
-↓
-**Evidence-Based Explanation**
+**User & Authentication**  
+↓  
+**Data Ingestion & Processing**  
+Financial records → extraction → normalization  
+↓  
+**Investigation & Analysis**  
+Evidence graph → matching → reconciliation → anomaly detection  
+↓  
+**Evidence-Based Explanation**  
+Findings → supporting evidence → confidence → explanation  
 
-See the `/architecture` folder for the system and security architecture diagrams.
+**Security & Trust** 
+Consent • Encryption • Minimal Data Access • Audit Logs • User Control
+
+> Tracey is designed for read-only financial investigation and does not require UPI PINs, OTPs, or banking passwords.
 
 ---
 
@@ -162,7 +160,7 @@ Key principles include:
 
 The current UI prototype is available in:
 
-`/prototype/ui/`
+`/UI-prototype/`
 
 It includes:
 
