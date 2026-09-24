@@ -203,20 +203,4 @@ Tracey can be extended toward:
 
 ---
 
-## 📁 Repository Structure
 
-```text
-tracey-agentic-financial-investigator/
-│
-├── README.md
-│
-├── prototype/
-│   └── ui/
-│       ├── tracey-home.png
-│       ├── tracey-upload.png
-│       ├── tracey-investigating.png
-│       └── tracey-result.png
-│
-└── architecture/
-    ├── tracey-system-architecture.png
-    └── tracey-security-architecture.png
