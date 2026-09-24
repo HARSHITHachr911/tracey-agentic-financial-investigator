@@ -156,7 +156,7 @@ Key principles include:
 
 ---
 
-## Prototype Screens
+## Prototype Screens:
 
 The current UI prototype is available in:
 
@@ -171,7 +171,7 @@ It includes:
 
 ---
 
-## Technology
+## Technology:
 
 The prototype and proposed architecture are designed to support:
 
@@ -187,7 +187,7 @@ Specific implementation technologies may evolve during the hackathon based on th
 
 ---
 
-##  Future Scope
+##  Future Scope:
 
 Tracey can be extended toward:
 
